@@ -43,3 +43,4 @@ int main() {
     cout<<res.substr(3, res.size()-4);
 
 	return 0;
+}
